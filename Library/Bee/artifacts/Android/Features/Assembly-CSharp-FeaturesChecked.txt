@@ -1,0 +1,1 @@
+UnityEngine.Input::set_multiTouchEnabled
